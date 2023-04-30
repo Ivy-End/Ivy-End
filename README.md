@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivy-end&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=ivy-end)
 -->
 
-- 🔭 I’m currently working on architecture design for the next-generation image sensor.
+- 🔭 I’m currently working on architecture design for the **next-generation image sensor**.
 - 👯 I’m looking to collaborate on the chip design of image sensor. 
 - 💬 Ask me about anything about image sensor.
 - 📫 How to reach me: suda.ivywk@gmail.com
