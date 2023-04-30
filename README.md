@@ -5,7 +5,6 @@
 -->
 
 - 🔭 I’m currently working on architecture design for the next-generation image sensor.
-- 🌱 I’m currently learning bio-vision.
 - 👯 I’m looking to collaborate on the chip design of image sensor. 
 - 💬 Ask me about anything about image sensor.
 - 📫 How to reach me: suda.ivywk@gmail.com
