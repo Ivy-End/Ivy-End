@@ -18,7 +18,7 @@ I'm currently working on several exciting areas related to image sensor design:
 
 2. **Time and Space Modulate SPAD Sensor**: This is a new type of Single-Photon Avalanche Diode (SPAD) sensor that can perform time and space modulate operations. It can capture both temporal and spatial information simultaneously, and perform various types of convolution operations in real-time, which has the potential to greatly accelerate certain computer vision algorithms.
 
-3. **Convolution Accelerator**: A novel convolution acceleration technology that uses a 2D-to-1D mapping technique to speed up convolutional operations using neuron circuits and digital ICs. This approach can significantly reduce the computational complexity of convolution operations and thus improve the efficiency of image processing systems.
+3. **Neural Network Hardware Accelerator**: A novel convolution acceleration technology that uses a 2D-to-1D mapping technique to speed up convolutional operations using neuron circuits and digital ICs. This approach can significantly reduce the computational complexity of convolution operations and thus improve the efficiency of image processing systems.
 
 4. **In-Memory Computing**: In-memory computing is a new paradigm for computing that utilizes memory to perform computations. This approach greatly reduces the data movement between memory and processor, leading to higher energy efficiency and faster processing speed. In my work, I'm exploring the use of SRAM or flash-based memory for in-memory computing to support the new edge of AI applications.
 
