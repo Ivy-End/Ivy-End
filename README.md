@@ -34,9 +34,9 @@ I am interested in the intersection of technology and society, and how technolog
 
 If you have any questions or would like to get in touch with me, feel free to reach out through the contact methods listed below.
 
-- Email: suda.ivywk@gmail.com
+- Email: [suda.ivywk@gmail.com](mailto:suda.ivywk@gmail.com)
 - WeChat: Ivy_End
 - QQ: 524218807
-- LinkedIn: https://www.linkedin.com/in/kai-wang-b311b6101/
-- Zhihu: https://www.zhihu.com/people/ivy-end
-- Bilibili: https://space.bilibili.com/39142721
+- LinkedIn: [https://www.linkedin.com/in/kai-wang-b311b6101/](https://www.linkedin.com/in/kai-wang-b311b6101/)
+- Zhihu: [https://www.zhihu.com/people/ivy-end](https://www.zhihu.com/people/ivy-end)
+- Bilibili: [https://space.bilibili.com/39142721](https://space.bilibili.com/39142721)
